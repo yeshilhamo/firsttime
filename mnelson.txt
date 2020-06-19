@@ -1,0 +1,12 @@
+#heading one
+i am yeshi lhamo
+
+##heading two 
+i am human</br>
+i am human 
+
+###unorderd list
+-list1
+-list 2
+-list 3
+
